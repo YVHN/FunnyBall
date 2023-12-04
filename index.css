@@ -3,6 +3,7 @@
     padding: 0;
 }
 .game-wrapper{
+    margin-top: 30px;
     display: flex;
     justify-content: center;
 }
